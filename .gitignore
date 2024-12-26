@@ -1,0 +1,110 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+
+# Flutter/Dart/Pub specific files
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android specific files
+android/.gradle/
+android/app/build/
+android/build/
+android/gradle-wrapper.jar
+android/gradle-wrapper.properties
+
+# iOS specific files
+ios/.symlinks/
+ios/Flutter/flutter_assets/
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.m
+
+# macOS specific files
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/.symlinks/
+
+# Linux specific files
+linux/flutter/
+linux/.symlinks/
+
+# Windows specific files
+windows/flutter/
+windows/.symlinks/
+
+# Web specific files
+web/.dart_tool/
+web/build/
+
+# User-specific files
+.idea/
+*.iml
+
+# VSCode specific files
+.vscode/
+
+# Intellij specific files
+*.iml
+.idea/
+
+# Flutter generated files
+*.flutter-plugins
+*.flutter-plugins-dependencies
+
+# Flutter temp files
+*.log
+*.dSYM/
+
+# Pubspec.lock should usually be included unless you want to avoid tracking package versions
+# Uncomment the line below if you want to ignore pubspec.lock
+# pubspec.lock
+
+# Miscellaneous
+*.DS_Store
+*.swp
+*.swo
+*.bak
