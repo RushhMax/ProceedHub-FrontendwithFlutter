@@ -1,0 +1,1 @@
+const String iLOGO = 'assets/imgs/logo.jpeg';
